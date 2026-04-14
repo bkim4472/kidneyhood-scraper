@@ -17,17 +17,20 @@ Scrapes all Amazon customer reviews for 5 KidneyHood titles using the [Apify](ht
 Reviews are exported to a Google Sheet with one tab per book plus a Summary tab:
 
 - **Summary** — cross-book comparison: ASIN, average rating, total ratings, rating distribution, Apify dataset IDs
-- **Evidence-Based Guide** — 8 reviews
-- **Stopping Kidney Disease** — 8 reviews
-- **Food Guide** — 8 reviews
-- **Basics** — 8 reviews
-- **Kidney Failure & Transplant** — 8 reviews
+- **Evidence-Based Guide** — 21 reviews (21/21, 100%)
+- **Stopping Kidney Disease** — 190 reviews (190/220, 86%)
+- **Food Guide** — 201 reviews (201/230, 87%)
+- **Basics** — 43 reviews (43/49, 88%)
+- **Kidney Failure & Transplant** — 16 reviews (16/16, 100%)
+- **Total: 471/536 (88%)**
 
 Each book sheet contains: Review ID, Date, Rating, Verified Purchase, Helpful Votes, Title, Full Review Text, Format.
 
 ## Tools Used
 
-- **Apify actor** — `web_wanderer/amazon-reviews-extractor` (all-stars mode, sorted by recent, amazon.com)
+- **Apify actor** — `junglee/amazon-reviews-scraper` (primary — per-star filters, helpful + recent sort, keyword filter)
+- **Apify actor** — `axesso_data/amazon-reviews-scraper` (supplemental — recent sort, up to 10 pages per star tier)
+- **Apify actor** — `webdatalabs/amazon-reviews-scraper` (authenticated via cookies — limited by HTML parser bug)
 - **Apify MCP server** — connected via Claude Code for actor invocation
 - **`gws` CLI** — Google Workspace CLI for Sheets API write
 - **`gh` CLI** — GitHub repo management
