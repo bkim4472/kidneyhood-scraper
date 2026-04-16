@@ -1,17 +1,17 @@
-reviewId,asin,book,source,date,rating,verified,helpfulVotes,author,title,text,format,vine,flag
-R1S84E1RCKF1YI,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2022-01-25,5,True,2,Adam,Extremely helpful resource,I ordered this book for my father who is experiencing kidney failure...,Format: Paperback,False,
-R34VR9NOO5ALO9,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2021-01-01,5,True,2,S Regmi,"Informative, short and easy read",This book is a superb simple but very informative book...,Format: Paperback,False,
-RT0RE339CAQ0N,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-12-20,5,False,0,,Excellent book,"Very well explained, didactic Very helpful for our patients",Format: Paperback,False,
-R2DQTXQVHLBEJ7,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-06-07,5,True,1,SS,Short read and informative,A short read but quite informative on the subject matter...,,False,
-R1FU0X6Q7MRYOW,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-05-22,5,True,1,Debra Keith,Easy to understand,"Took awhile to receive, but got it",Format: Paperback,False,
-RU18TVA7ODMT,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-02-20,5,True,2,nsch,excellent resource - highly recommend,What a great resource for patients and families going through this process!...,Format: Paperback,False,
-R1RQR84I6L1854,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-02-04,5,True,0,Kusum,A very well written book!!!,"With its easy to understand language, this book is a go to book...",,False,
-RE3KIVCFJSLD,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-02-03,5,False,0,,Excellent,Being a daughter of a kidney transplant patient...,,False,
-R22H3OZJUQTKLS,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-31,5,False,0,,An Excellent Resource,A very well written book!! Easy to understand and thorough...,Format: Kindle,False,
-R14SWGXRXOSECF,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-30,5,False,0,,Very Helpful,This is excellent book for patient with CKD or who had transplant !!!!,Format: Paperback,False,
-R33CWJASLN3DQZ,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-20,5,False,0,,"An excellent book/ guide for both patients , doctors and health care workers.",Kidney disease is an epidemic nowadays...,Format: Paperback,False,
-R5HDDMSN7FF30,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-09,5,False,0,,Excellent book!! Highly recommended for patients as well as health care providers.,Excellent Guide for patients...,Format: Paperback,False,
-RRJ6U3WFMN21S,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-08,5,False,0,,An excellent resource for kidney patients.,Extremely well written!!...,Format: Paperback,False,
-R3KJ8JAD28HAW8,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-04,5,True,0,Annie,Very well written book!,Well written facts in easy language for patients...,Format: Paperback,False,
-R38UMPIXOWKV89,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-02,5,True,5,Sylvia,Very helpful,The scariest part of dealing with chronic disease...,,False,
-R2VD9P9Q57C6OX,B082S6ZRVB,Kidney Failure & Transplantation,junglee,2020-01-02,5,False,0,,Factual Guide for patients who are considering transplants,"Easy to read, color charts and excellent general guide...",,False,
+reviewId,asin,source,date,rating,verified_purchase,helpful_votes,author,title,body,format,star_filter
+R1S84E1RCKF1YI,B082S6ZRVB,apify,2022-01-25,5,True,2,Adam,Extremely helpful resource,I ordered this book for my father who is experiencing kidney failure...,Format: Paperback,five_star
+R34VR9NOO5ALO9,B082S6ZRVB,apify,2021-01-01,5,True,2,S Regmi,"Informative, short and easy read",This book is a superb simple but very informative book...,Format: Paperback,five_star
+RT0RE339CAQ0N,B082S6ZRVB,apify,2020-12-20,5,False,0,,Excellent book,"Very well explained, didactic Very helpful for our patients",Format: Paperback,five_star
+R2DQTXQVHLBEJ7,B082S6ZRVB,apify,2020-06-07,5,True,1,SS,Short read and informative,A short read but quite informative on the subject matter...,,five_star
+R1FU0X6Q7MRYOW,B082S6ZRVB,apify,2020-05-22,5,True,1,Debra Keith,Easy to understand,"Took awhile to receive, but got it",Format: Paperback,five_star
+RU18TVA7ODMT,B082S6ZRVB,apify,2020-02-20,5,True,2,nsch,excellent resource - highly recommend,What a great resource for patients and families going through this process!...,Format: Paperback,five_star
+R1RQR84I6L1854,B082S6ZRVB,apify,2020-02-04,5,True,0,Kusum,A very well written book!!!,"With its easy to understand language, this book is a go to book...",,five_star
+RE3KIVCFJSLD,B082S6ZRVB,apify,2020-02-03,5,False,0,,Excellent,Being a daughter of a kidney transplant patient...,,five_star
+R22H3OZJUQTKLS,B082S6ZRVB,apify,2020-01-31,5,False,0,,An Excellent Resource,A very well written book!! Easy to understand and thorough...,Format: Kindle,five_star
+R14SWGXRXOSECF,B082S6ZRVB,apify,2020-01-30,5,False,0,,Very Helpful,This is excellent book for patient with CKD or who had transplant !!!!,Format: Paperback,five_star
+R33CWJASLN3DQZ,B082S6ZRVB,apify,2020-01-20,5,False,0,,"An excellent book/ guide for both patients , doctors and health care workers.",Kidney disease is an epidemic nowadays...,Format: Paperback,five_star
+R5HDDMSN7FF30,B082S6ZRVB,apify,2020-01-09,5,False,0,,Excellent book!! Highly recommended for patients as well as health care providers.,Excellent Guide for patients...,Format: Paperback,five_star
+RRJ6U3WFMN21S,B082S6ZRVB,apify,2020-01-08,5,False,0,,An excellent resource for kidney patients.,Extremely well written!!...,Format: Paperback,five_star
+R3KJ8JAD28HAW8,B082S6ZRVB,apify,2020-01-04,5,True,0,Annie,Very well written book!,Well written facts in easy language for patients...,Format: Paperback,five_star
+R38UMPIXOWKV89,B082S6ZRVB,apify,2020-01-02,5,True,5,Sylvia,Very helpful,The scariest part of dealing with chronic disease...,,five_star
+R2VD9P9Q57C6OX,B082S6ZRVB,apify,2020-01-02,5,False,0,,Factual Guide for patients who are considering transplants,"Easy to read, color charts and excellent general guide...",,five_star

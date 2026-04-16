@@ -17,12 +17,12 @@ Scrapes all Amazon customer reviews for 5 KidneyHood titles using the [Apify](ht
 Reviews are exported to a Google Sheet with one tab per book plus a Summary tab:
 
 - **Summary** — cross-book comparison: ASIN, average rating, total ratings, rating distribution, Apify dataset IDs
-- **Evidence-Based Guide** — 21 reviews (21/21, 100%)
-- **Stopping Kidney Disease** — 190 reviews (190/220, 86%)
-- **Food Guide** — 201 reviews (201/230, 87%)
-- **Basics** — 43 reviews (43/49, 88%)
-- **Kidney Failure & Transplant** — 16 reviews (16/16, 100%)
-- **Total: 471/536 (88%)**
+- **Evidence-Based Guide** — 22 reviews
+- **Stopping Kidney Disease** — 219 reviews
+- **Food Guide** — 225 reviews
+- **Basics** — 48 reviews
+- **Kidney Failure & Transplant** — 16 reviews
+- **Total: 530**
 
 Each book sheet contains: Review ID, Date, Rating, Verified Purchase, Helpful Votes, Title, Full Review Text, Format.
 
